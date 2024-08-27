@@ -14,6 +14,7 @@ background_image = """
 
 st.markdown(background_image, unsafe_allow_html=True)
 
+# print("Hello from front_end.py")
 
 def lu_decomposition(A):
     n = len(A)
